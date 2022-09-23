@@ -49,11 +49,12 @@ ________________________________________________________________________________
 
 3. DOCUMENTATION
      
-    3.1  The files of the project must maintain perfect Github workflow.
-        1. Work and code should on a daily basis be pushed to Github with _exhaustive_ comments.
+    3.1  Proeject owner (Emil Appelkvist) creates a private Github repository and invitees the Worker/developer/programmer. 
+        1. The files of the project must maintain perfect Github workflow.
+        2. Work and code should on a daily basis be pushed to Github with _exhaustive_ comments.
         
      3.2 Pushing files to Github _main_ branch is _always_ done by Github repository owner. 
-        1. Worker/developer/programmer do not push files to main branch or folder.
+        1. Worker/developer/programmer do not push files to main branch or folder unless agreed upon.
         2. Worker/developer/programmer do push files to experimental/development branch or folder.
         
     Github Guides - Understanding the GitHub Flow:
@@ -74,6 +75,7 @@ ________________________________________________________________________________
 
     4.1 Testing must be done according to a testplan.
     The worker/developer/programmer is responsible for creating a testplan matching the project scope.
+    Testplan are to be reported and explained before testing begins.
     
     4.2 The worker/developer/programmer is responsible for a bug free product. This includes wide scale testing to find and
     eliminate bugs. Bugs of importance found are to be documented and should be put on Github Issues 
@@ -121,10 +123,10 @@ ________________________________________________________________________________
 
 /*
 * @version		    x.X.X
-* @copyright	    Emil Appelkvist
+* @copyright	  Emil Appelkvist
 * @owner          Emil Appelkvist
-* @author		      Worker/developer/programmer name, company and email
-* @license		    Proprietary software
+* @author		  Worker/developer/programmer name, company and email
+* @license		  Proprietary software
 */
 ____________________________________________________________________________________
 
