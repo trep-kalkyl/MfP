@@ -32,7 +32,7 @@ ________________________________________________________________________________
     The documents complement each other.
     If the documents have conflicting data or information, unless circumstances clearly dictate to others, apply the following 
     order:
-        1. Specification of work - Freelancer.com
+        1. Specification of work - What has been agreed.
         2. Manual for programming (this document) Including all instructions and documents linked in this document.
 
     2.2 Further Instructions.
@@ -90,7 +90,8 @@ ________________________________________________________________________________
     Communication needs to be in english or in swedish.
     Communication of importance should be put on Github Issues 
     (https://github.com/trep-kalkyl/*****/issues) with suitable label.
-    General discussion takes place on Freelancer.
+    General discussion takes place on Freelancer if this is a freelancer.com project.
+    If project is not a freelancer.com project general discussion takes place on Skype.
 
 ____________________________________________________________________________________
 
